@@ -1,0 +1,11 @@
+.title {
+    width: 350px;
+    height: 220px;
+    padding:15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
+    margin-top: 0px;
+    background-color: green;
+}
